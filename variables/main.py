@@ -107,4 +107,3 @@ print(type(x))
 x = ...
 print(x)
 print(type(x))
-
