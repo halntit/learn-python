@@ -17,8 +17,7 @@ print("=====================================")
 passed_students = [i for i in students_scores if i >= 50]
 print(passed_students)
 print("=====================================")
- 
+
 result_students = [i if i >= 50 else "failed" for i in students_scores]
 print(result_students)
 print("=====================================")
- 
